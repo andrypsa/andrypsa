@@ -58,13 +58,13 @@ Aqui você encontra projetos pessoais, acadêmicos e desenvolvidos durante progr
 ### 🌐 Vamos nos conectar?
 
 <div align="center">
+  
+<a href="https://www.linkedin.com/in/andrielly-patricia/">
+  <img src="https://img.shields.io/badge/LinkedIn-00A1E0?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 <a href="https://www.salesforce.com/trailblazer/andrypsa">
   <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/andrielly-patricia/">
-  <img src="https://img.shields.io/badge/LinkedIn-00A1E0?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
