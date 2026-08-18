@@ -26,9 +26,10 @@ Desenvolvendo soluções para a web, explorando novas tecnologias e aberta a opo
 
 <div align="center">
 
-**🏅 Trailhead Ranger**
+🏅 **Trailhead Ranger**  
+🤖 **Agentblazer Champion '26**
 
-Salesforce • Flow • Apex • LWC • Agentforce
+Salesforce • Flow • Apex • LWC • Agentforce • Slack
 
 </div>
 
@@ -54,12 +55,15 @@ Aqui você encontra projetos pessoais, acadêmicos e desenvolvidos durante progr
 
 <div align="center">
 
+<a href="https://www.salesforce.com/trailblazer/andrypsa">
+  <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logoColor=white">
+</a>
+
 <a href="https://www.linkedin.com/in/andrielly-patricia/">
   <img src="https://img.shields.io/badge/LinkedIn-00A1E0?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
-
 <br>
 
 <div align="center">
